@@ -10,7 +10,7 @@ $color5: rgba(29, 53, 87, 1); */
 body {
     background-color: rgba(29, 53, 87, 1);
     font-family: 'Cabin', sans-serif;
-    margin: 50px;
+    margin: 5% 15% 10% 15%;
 }
 
 p {
@@ -58,4 +58,12 @@ h3 {
     height: 200px;
     width: 90%;
     margin: auto; */
+}
+
+button {
+    padding: 2px;
+    margin: 2px;
+    align-content: center;
+    vertical-align: center;
+    text-align: center;
 }
